@@ -1,0 +1,1 @@
+# JST-Gerbang-logika-AND
